@@ -338,7 +338,7 @@ https://d3e31jbis4onz6.cloudfront.net
 ## 🌍 Live Website
 
 <p align="center">
-  <img src="AWS/website-live.png" width="900">
+<img src="website-live.png.jpeg" width="900">
 </p>
 
 ---
@@ -346,7 +346,7 @@ https://d3e31jbis4onz6.cloudfront.net
 ## ☁️ Amazon CloudFront Distribution
 
 <p align="center">
-  <img src="AWS/cloudfront-distributions.png" width="900">
+<img src="cloudfront-distributions.png.jpeg" width="900">
 </p>
 
 ---
@@ -354,7 +354,7 @@ https://d3e31jbis4onz6.cloudfront.net
 ## 📄 CloudFront Distribution Details
 
 <p align="center">
-  <img src="AWS/cloudfront-distribution-details.png" width="900">
+<img src="cloudfront-distribution-details.png.jpeg" width="900">
 </p>
 
 ---
@@ -362,7 +362,7 @@ https://d3e31jbis4onz6.cloudfront.net
 ## 🔒 CloudFront Origin Access Control (OAC)
 
 <p align="center">
-  <img src="AWS/cloudfront-origin.png" width="900">
+<img src="cloudfront-origin.png.jpeg" width="900">
 </p>
 
 ---
@@ -372,25 +372,25 @@ https://d3e31jbis4onz6.cloudfront.net
 ### Successful Deployment
 
 <p align="center">
-  <img src="AWS/codepipeline-success.png" width="900">
+<img src="codepipeline-success.png.jpeg" width="900">
 </p>
 
 ### Pipeline Executions
 
 <p align="center">
-  <img src="AWS/codepipeline-executions.png" width="900">
+<img src="codepipeline-executions.png.jpeg" width="900">
 </p>
 
 ### GitHub Connection
 
 <p align="center">
-  <img src="AWS/github-connection.png" width="900">
+<img src="github-connection.png.jpeg" width="900">
 </p>
 
-### IAM Permissions for CodePipeline User
+### CodePipeline IAM Permissions
 
 <p align="center">
-  <img src="AWS/member5-codepipeline-permissions.png" width="900">
+<img src="member5-codepipeline-permissions.png.jpeg" width="900">
 </p>
 
 ---
@@ -398,13 +398,13 @@ https://d3e31jbis4onz6.cloudfront.net
 ## 📊 Amazon CloudWatch Dashboard
 
 <p align="center">
-  <img src="AWS/cloudwatch-dashboard.png" width="900">
+<img src="cloudwatch-dashboard.png.jpeg" width="900">
 </p>
 
 ### Dashboard Creation
 
 <p align="center">
-  <img src="AWS/create-dashboard.png" width="900">
+<img src="create-dashboard.png.jpeg" width="900">
 </p>
 
 ---
@@ -414,19 +414,19 @@ https://d3e31jbis4onz6.cloudfront.net
 ### Alarm Configuration
 
 <p align="center">
-  <img src="AWS/alarm-configuration.png" width="900">
+<img src="alarm-configuration.png.jpeg" width="900">
 </p>
 
 ### Alarm Created
 
 <p align="center">
-  <img src="AWS/alarm-created.png" width="900">
+<img src="alarm-created.png.jpeg" width="900">
 </p>
 
 ### Alarm List
 
 <p align="center">
-  <img src="AWS/alarm-list.png" width="900">
+<img src="alarm-list.png.jpeg" width="900">
 </p>
 
 ---
@@ -434,7 +434,7 @@ https://d3e31jbis4onz6.cloudfront.net
 ## 📧 Amazon SNS Notification
 
 <p align="center">
-  <img src="AWS/sns-subscription-confirmed.png" width="900">
+<img src="sns-subscription-confirmed.png.jpeg" width="900">
 </p>
 
 ---
@@ -442,15 +442,20 @@ https://d3e31jbis4onz6.cloudfront.net
 ## 👥 IAM User Groups
 
 <p align="center">
-  <img src="AWS/iam-user-groups.png" width="900">
+<img src="iam-user-groups.png.jpeg" width="900">
 </p>
 
 ### CloudWatch Team Permissions
 
 <p align="center">
-  <img src="AWS/member3-permissions.png" width="900">
+<img src="member3-permissions.png.jpeg" width="900">
 </p>
 
+### CloudWatch IAM Policy
+
+<p align="center">
+<img src="member4-cloudwatch-permissions.png.jpeg" width="900">
+</p>
 # 📈 Project Outcome
 
 ✔ Successfully hosted a static website using Amazon S3.
