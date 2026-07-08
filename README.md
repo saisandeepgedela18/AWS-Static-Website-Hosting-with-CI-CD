@@ -1,3 +1,9 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:232F3E,50:1E90FF,100:56A8FF&text=AWS%20Static%20Website%20Hosting&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Amazon%20S3%20|%20CloudFront%20|%20CodePipeline%20|%20CloudWatch%20|%20SNS&descAlignY=58"/>
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3500&pause=1200&color=1E90FF&center=true&vCenter=true&width=900&lines=AWS+Static+Website+Hosting;CI%2FCD+Pipeline+using+CodePipeline;CloudFront+%2B+S3+%2B+CloudWatch+%2B+SNS;Built+using+AWS+Best+Practices"/>
+</p>
 <div align="center">
 
 # ☁️ AWS Static Website Hosting with CI/CD
