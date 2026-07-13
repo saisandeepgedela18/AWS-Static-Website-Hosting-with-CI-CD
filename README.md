@@ -509,6 +509,15 @@ Potential improvements include:
 - ✅ Production-inspired AWS Architecture
 
 ---
+## 📄 Documentation
+
+📘 **Project Report**
+
+👉 [AWS Static Website Hosting CICD Report.pdf](Documentation/AWS%20Static%20Website%20Hosting%20CICD%20Report.pdf)
+
+📊 **Project Presentation**
+
+👉 [AWS Static Website CICD (1).pptx](Documentation/AWS%20Static%20Website%20CICD%20(1).pptx)
 
 # 📜 Acknowledgements
 
