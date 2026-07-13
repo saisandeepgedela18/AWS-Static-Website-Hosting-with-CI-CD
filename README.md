@@ -246,10 +246,21 @@ AWS-Static-Website-Hosting-with-CI-CD/
 
 # 🌐 Live Demo
 
-> ### 🚀 CloudFront URL
+## ☁️ Amazon CloudFront (Production URL)
 
-🔗 **https://d3e31jbis4onz6.cloudfront.net**
+CloudFront securely delivers the website using **Origin Access Control (OAC)** and provides global content delivery.
 
+🔗 https://d3e31jbis4onz6.cloudfront.net
+
+---
+
+## 📦 Amazon S3 Static Website Endpoint (Deployment Target)
+
+This endpoint represents the website hosted directly on Amazon S3 and is used to verify successful deployments from AWS CodePipeline.
+
+🔗 http://staticwebsite-pipeline4.s3-website.ap-south-1.amazonaws.com
+
+> **Note:** In production, users should access the website through **Amazon CloudFront**, while the S3 Static Website Endpoint is primarily used for deployment validation and testing.
 ---
 
 # 📸 Project Gallery
